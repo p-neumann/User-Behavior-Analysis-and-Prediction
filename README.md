@@ -30,7 +30,7 @@ matplotlib
 scikit-learn
 pylab
 ```
-Now download the geoip2 databases from:
+Now download the geoip2 databases from: (URLs are unaccessible. Contact me for files)
  - City GeoIP - http://geolite.maxmind.com/download/geoip/database/GeoLite2-City.tar.gz
  - Country GeoIP - http://geolite.maxmind.com/download/geoip/database/GeoLite2-Country.tar.gz
 
