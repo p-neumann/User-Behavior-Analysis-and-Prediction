@@ -4,7 +4,7 @@ This project is to clean, explore, analyze and build ML models from user behavio
 
 ## Introduction
 
-This project is originated from a UC Berkeley Graduate Seminar [Python Computing for Data Science](https://github.com/profjsb/python-seminar). [forked url](https://github.com/p-neumann/python-seminar) This GitHub repo contains all the codes and a sample dataset for testing purpose. The objectives of this project are:
+This project is originated from a UC Berkeley Graduate Seminar [Python Computing for Data Science](https://github.com/profjsb/python-seminar). ([forked url](https://github.com/p-neumann/python-seminar)) This GitHub repo contains all the codes and a sample dataset for testing purpose. The objectives of this project are:
 + Clean dirty log data and transform it for analytics.
 + Exploratory data analysis, e.g. find user activity levels for different events, and user interaction with web components.
 + Find the conversion rate of users, identify key factors that bottleneck the conversion rate.
